@@ -15,3 +15,5 @@ function onTimeUpdate(data) {
 player.setCurrentTime(JSON.parse(localStorage.getItem(CURRENT_TIME_PLAYER)) || 0);
 
 
+
+
